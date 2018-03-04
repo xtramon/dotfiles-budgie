@@ -1,8 +1,9 @@
+URxvt*geometry: 140x30
 URxvt*scrollBar_right: false
 URxvt*scrollBar: false
 URxvt*borderLess: false
-URxvt.font:xft:Inconsolata:size=14
-URxvt.boldFont:xft:Inconsolata:bold:size=14
+URxvt.font:xft:Hurmit Nerd Font:medium:size=12
+URxvt.boldFont:xft:Hurmit Nerd Font:bold:size=12
 URxvt.perl-ext-common: default,matcher,resize-font,fullscreen
 URxvt.url-launcher: /usr/bin/xdg-open
 URxvt.matcher.button: 1
